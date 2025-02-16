@@ -617,7 +617,7 @@
       top: 0;
       left: 0;
       /* z-index: 0; */
-      opacity:0.4;
+      opacity: 0.25;
     }
     .container {
   position: relative;
